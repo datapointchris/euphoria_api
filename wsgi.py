@@ -1,0 +1,1 @@
+from euphoria_api.main import app
